@@ -1,8 +1,8 @@
 # MyShell
 ## Authors
-- Mahmoud Farag Tayeh
-- Mahmoud Hesham Almodalal 
-- Hazem Mohammed Oukal
+- [Mahmoud Tayeh](https://github.com/MahmoudTayeh)
+- [Mahmoud Almodalal](https://github.com/MahmoudAlmodalal)
+- [Hazem Oukal](https://github.com/exception3010)
 ## Overview
 
 MyShell is a basic command-line shell implemented in C. It supports execution of internal and external commands, input/output redirection, background processing, and batch mode via a script file.
