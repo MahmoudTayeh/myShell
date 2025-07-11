@@ -1,7 +1,7 @@
 # MyShell
 ## Authors
-- Mahmoud Hesham Almodalal 
 - Mahmoud Farag Tayeh
+- Mahmoud Hesham Almodalal 
 - Hazem Mohammed Oukal
 ## Overview
 
